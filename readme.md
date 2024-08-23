@@ -1,0 +1,1 @@
+Simple repository to test importing of dependency into binderhub environment.
